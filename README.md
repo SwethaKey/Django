@@ -5,3 +5,4 @@ This is How to save data from frontend to backend and also in connection of MYSQ
 
 
 ![image](https://github.com/SwethaKey/Django/assets/168103262/01480155-834a-4dea-97b4-9c5549419031)
+![image](https://github.com/SwethaKey/Django/assets/168103262/66ea6b08-6c85-4574-bbd7-82db56e30f7b)
