@@ -3,7 +3,8 @@
 
 # when you add the item here in Admin site
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d118227d-7de3-4cbf-ac01-7a151ddc617d)
+
 
 
 
