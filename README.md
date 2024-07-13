@@ -9,7 +9,7 @@
 7.Altering the model
 
 
-#This is the Bootstrap Grip concepts
+#This is the Bootstrap Grip concepts we written in the Index.html
 ----------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/cf94a774-2fb8-45c1-bc43-907de01ba213)
 
