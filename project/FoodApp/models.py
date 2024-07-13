@@ -8,3 +8,4 @@ class Item(models.Model):
       item_name=models.CharField(max_length=122)
       item_desc=models.CharField(max_length=122)
       item_price=models.IntegerField()
+      item_image=models.CharField(max_length=5000,default='https://www.vecteezy.com/vector-art/22058960-no-image-available-icon')
