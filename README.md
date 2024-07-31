@@ -28,3 +28,23 @@ This is How to save data from frontend to backend and also in connection of MYSQ
 
 
 ![image](https://github.com/SwethaKey/Django/assets/168103262/c373ffcc-ce54-41f5-85c0-24de684e52ed)
+
+
+
+
+
+
+
+
+
+
+#------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+![Uploading image.png…]()
+
