@@ -46,5 +46,6 @@ This is How to save data from frontend to backend and also in connection of MYSQ
 
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/655899e4-4b6a-45c6-8706-a9f67062102b)
+
 
